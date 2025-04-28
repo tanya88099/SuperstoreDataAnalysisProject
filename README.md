@@ -39,4 +39,3 @@ This superstore Data analysis project we'll do it in AWS cloud. We'll explore ma
 - Explore and share insights from your visualizations.
 
 ---
-![image](https://github.com/user-attachments/assets/fc589e2f-79ab-4def-b77e-e567f44619db)
