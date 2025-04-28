@@ -39,3 +39,8 @@ This superstore Data analysis project we'll do it in AWS cloud. We'll explore ma
 - Explore and share insights from your visualizations.
 
 ---
+## 🧠 Author
+
+**Tanya Singh**  
+Data Modeler | SQL Enthusiast | Azure Certified  
+📬 https://www.linkedin.com/in/tanya88099/
